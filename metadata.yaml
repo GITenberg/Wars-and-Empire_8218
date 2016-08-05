@@ -1,0 +1,32 @@
+_repo: Wars-and-Empire_8218
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Shmuel
+    - Vaknin, Sam
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: ''
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8218'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Iraq War, 2003-2011'
+- !lcc 'E895'
+- !lcsh 'Afghan War, 2001-'
+- GITenberg
+title: Wars and Empire
+url: http://www.gutenberg.org/ebooks/8218
